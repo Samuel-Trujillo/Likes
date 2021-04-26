@@ -1,0 +1,72 @@
+body{
+    font-family: cursive;
+}
+.network{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    height: min-content;
+    background-color: black;
+    color: white;
+    text-indent: 40px;
+}
+.Feed{
+    text-align: center;
+    font-size: 40px;
+}
+.page{
+    display: flex;
+    align-items: vertical;
+    justify-content: center;
+    height: 500px ;
+    width: 100%;
+    padding: 30px;
+    
+}
+
+.contleft{
+    margin-right: 20px;
+    height: 280px;
+    width: 180px;
+    border: solid black 3px;
+    text-align: center;
+}
+.post{
+    margin: 10px;
+    border: solid black 3px;
+    height: 170px;
+    width: 450px;
+    
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+.hit{
+    height: min-content;
+    width: min-content;
+    background-color: yellow;
+    color: black;
+    box-shadow: 2px 2px 2px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.link1{
+    font-size: 20px;
+}
+.name{
+    font-size: 30px;
+
+}
+.icon{
+    margin-top: 20px;
+}
+.comment{
+    margin-left: 20px;
+}
+p{
+    font-size: 20px;
+}
