@@ -1,0 +1,22 @@
+body{
+    font-family: cursive;
+}
+.cont{
+    border: solid black 3px;
+    height: min-content;
+    width: 450px
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hit{
+    height: min-content;
+    width: min-content;
+    background-color: yellow;
+    color: black;
+    box-shadow: 2px 2px 2px;
+    font-size: 18px;
+    margin-right: 10px;
+}
